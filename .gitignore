@@ -1,0 +1,9 @@
+*.chainlit*
+*.pyc*
+
+### checkin later
+text-to-metadata-filters*
+self_query_hotel_search.ipynb
+learn.ipynb
+
+text-to-sql/dataset/hotel-recommendations*
